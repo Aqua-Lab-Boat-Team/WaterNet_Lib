@@ -1,12 +1,12 @@
 (footprint "CAPC3216X180N"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at -1.06 -1.5 0)
+		(at 2.868 0 0)
 		(layer "F.SilkS")
-		(uuid "37696e34-9f62-4ce7-a210-48540ad0c750")
+		(uuid "646b4e08-b82d-41de-bd40-b5a2b1ab44c0")
 		(effects
 			(font
 				(size 0.393701 0.393701)
@@ -17,7 +17,7 @@
 	(property "Value" "47uF 25V"
 		(at 0.94 1.5 0)
 		(layer "F.Fab")
-		(uuid "b02d592f-a079-4d37-854c-a585ecb6d104")
+		(uuid "91c4c230-da0a-499f-8e7a-7d9347912f6d")
 		(effects
 			(font
 				(size 0.393701 0.393701)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "840e9029-0f6a-4a75-b4ee-6c3457ab41d3")
+		(uuid "aaae58eb-b8df-4a38-b354-4cab1941695a")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -41,7 +41,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "7b63f1f7-b8e8-4ff8-8026-940c031e6031")
+		(uuid "7aa297fb-41c4-496a-b2a8-c25e1dbc8ec0")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -50,11 +50,11 @@
 		)
 	)
 	(property "MF" "TDK"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "7777de4a-755f-4044-8e14-c3f0dc473bf6")
+		(uuid "c36ac45a-5cb4-46e6-ae85-82f770653398")
 		(effects
 			(font
 				(size 1 1)
@@ -63,11 +63,11 @@
 		)
 	)
 	(property "Description_1" "47 µF ±20% 25V Ceramic Capacitor X5R 1206 (3216 Metric)"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "766b1fa6-17a2-4935-a26f-4fb5b58836e3")
+		(uuid "9bbd0c4c-54a5-4baf-8a10-e14f7cccad8d")
 		(effects
 			(font
 				(size 1 1)
@@ -76,11 +76,11 @@
 		)
 	)
 	(property "Package" "3216 TDK"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f5911f7d-e063-4876-84b0-955bbf2dd16a")
+		(uuid "d6f9c182-b38b-4e26-b117-9b9e20d9efa3")
 		(effects
 			(font
 				(size 1 1)
@@ -89,11 +89,11 @@
 		)
 	)
 	(property "Price" "None"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f9f0b6e6-8144-455f-ba52-1b2b41e7d5fc")
+		(uuid "4745700c-9e06-4a30-82a6-144822eec12d")
 		(effects
 			(font
 				(size 1 1)
@@ -102,11 +102,11 @@
 		)
 	)
 	(property "SnapEDA_Link" "https://www.snapeda.com/parts/C3216X5R1E476M160AC/TDK/view-part/?ref=snap"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "3976275e-ba1b-4af3-8961-c50ba6969236")
+		(uuid "78d8a140-da48-45d4-ba51-373d390bc388")
 		(effects
 			(font
 				(size 1 1)
@@ -115,11 +115,11 @@
 		)
 	)
 	(property "MP" "C3216X5R1E476M160AC"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5565939c-6080-4b53-bfb8-6db3a6d58ddd")
+		(uuid "941f6c7c-7374-4f36-8ee1-fd4619218ac8")
 		(effects
 			(font
 				(size 1 1)
@@ -128,11 +128,11 @@
 		)
 	)
 	(property "Availability" "In Stock"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5b490bb7-8481-41c3-a136-72d20fc80ee6")
+		(uuid "c09de2a8-8bfe-419d-bbcc-e785719e6531")
 		(effects
 			(font
 				(size 1 1)
@@ -141,11 +141,11 @@
 		)
 	)
 	(property "Check_prices" "https://www.snapeda.com/parts/C3216X5R1E476M160AC/TDK/view-part/?ref=eda"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "86fdbefa-8bfe-462e-8e1a-afe1663af4bc")
+		(uuid "5f6df28e-1912-4871-96f8-d612eec0a030")
 		(effects
 			(font
 				(size 1 1)
@@ -153,7 +153,10 @@
 			)
 		)
 	)
+	(sheetname "/")
+	(sheetfile "jetson_board.kicad_sch")
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -0.29 -0.9)
 		(end 0.29 -0.9)
@@ -162,7 +165,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "d7606b72-a892-496e-8fdb-9c707bb748b8")
+		(uuid "45dcb5dd-dd51-42f2-815e-feb7f6c6c99e")
 	)
 	(fp_line
 		(start -0.29 0.9)
@@ -172,7 +175,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "6278a85d-f38b-44ec-b76f-e24c373ec159")
+		(uuid "b9d170c4-c9fd-4837-8815-4615996ddc98")
 	)
 	(fp_line
 		(start -2.308 -1.158)
@@ -182,7 +185,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "506fa4cf-058b-4d48-8982-b18318d26b3d")
+		(uuid "d81dd9d8-c867-4690-a034-02c2a5f8227e")
 	)
 	(fp_line
 		(start -2.308 1.158)
@@ -192,7 +195,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "6ebf2f37-d925-43ed-8744-7fb0c6bb8726")
+		(uuid "2ca4ac63-2dde-4e92-8d6c-6af2b759e85b")
 	)
 	(fp_line
 		(start -2.308 1.158)
@@ -202,7 +205,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "5762e6f3-b7a4-4e2c-af00-a5e0250ca997")
+		(uuid "98440f2c-91e7-4166-8af2-5e3e67ddb666")
 	)
 	(fp_line
 		(start 2.308 1.158)
@@ -212,7 +215,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "6024869f-2b08-4312-aa3a-48dfe990dc1e")
+		(uuid "f6781608-1e1b-4b81-b722-1a56da2203fa")
 	)
 	(fp_line
 		(start -1.7 0.9)
@@ -222,7 +225,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "5b6e5f46-ff3f-4960-94a7-3e90d4397fa2")
+		(uuid "a4e5ad48-3e36-4531-afb7-c96be863b5e7")
 	)
 	(fp_line
 		(start 1.7 -0.9)
@@ -232,7 +235,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "2327ff52-b8ca-4585-891c-578ae8c98fbd")
+		(uuid "74ff095a-6810-486d-bf80-a07346dad348")
 	)
 	(fp_line
 		(start 1.7 0.9)
@@ -242,7 +245,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "51d6e485-ea6f-405f-b09a-aa6e3a5a30f0")
+		(uuid "0727c291-0046-410e-a862-07ee56674621")
 	)
 	(fp_line
 		(start 1.7 0.9)
@@ -252,21 +255,21 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "88b82469-568a-4d1a-aceb-5c753c06afff")
+		(uuid "135b0117-d94d-4e81-842d-66e60ecea46a")
 	)
 	(pad "1" smd rect
-		(at -1.336 0)
+		(at -1.336 0 180)
 		(size 1.44 1.82)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "f5a4095b-725c-4a6a-83e4-b10ef8858bf7")
+		(uuid "dda5be88-8bea-4351-8f73-ed85e1484462")
 	)
 	(pad "2" smd rect
-		(at 1.336 0)
+		(at 1.336 0 180)
 		(size 1.44 1.82)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "160267ed-3262-41c6-bb61-7b0048beebae")
+		(uuid "e96b592c-8ff5-4eda-a304-61e132da7f0b")
 	)
 	(embedded_fonts no)
 )
